@@ -11,3 +11,8 @@
 ```
 ipconfig /flushdns
 ```
+
+### macOS
+
+`/etc/hosts` に `hosts` の内容を追記。
+
